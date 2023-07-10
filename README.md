@@ -1,4 +1,4 @@
-# GardeningAndDSA
+# Blooming Algorithms
 
 The intution for this project came from my personal gardeneing experience. It is always crucial to carefully plan and optimize the layout of a garden.
 Considering the growth patterns and sunlight requirements of each plant before deciding where to place them. Observing how certain plants grow taller or wider, and how some prefer full sun while others thrive in partial shade, all of this has taught me the importance of providing adequate space and sunlight for each plant to flourish. I have also discovered the benefits and the concept of companion planting, where certain plants thrive when grown together, while others may hinder each other's growth.
